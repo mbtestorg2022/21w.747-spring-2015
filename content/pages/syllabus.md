@@ -48,35 +48,237 @@ Grading
 
 I grade on a 13-point scale (and I do not round final grades upwards)
 
-| GRADES | POINTS |
-| --- | --- |
-| A+ | 13 |
-| A | 12 |
-| A- | 11 |
-| B+ | 10 |
-| B | 9 |
-| B- | 8 |
-| C+ | 7 |
-| C | 6 |
-| C- | 5 |
-| D+ | 4 |
-| D | 3 |
-| D- | 2 |
-| F | 1 |
-| Missing | 0 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A+
+{{< tdclose >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C+
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C-
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D+
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D-
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Missing
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Value of each assignment:
 
-| ASSIGNMENTS | COUNTS |
-| --- | --- |
-| Essay 1 | 2 |
-| Essay 2 | 2 |
-| Essay 3 | 2 |
-| Average of Framing Oral Presentations | 2 |
-| Average of Written Versions of Framing | 2 |
-| Performance of Persuasive Speech | 1 |
-| Written Version of Persuasive Speech | 1 |
-| **Total** | **12** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+COUNTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Average of Framing Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Average of Written Versions of Framing
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance of Persuasive Speech
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Version of Persuasive Speech
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**12**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Policies
 ---------------
