@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f97971ba-34d6-6075-4089-d485b31b5172
 resourcetype: Image
 title: workshop in section 2
 uid: 614be067-a14d-1afe-58e1-62e9994ffb37
